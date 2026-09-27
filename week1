@@ -1,0 +1,12 @@
+Key Column Definitions
+
+**ClosePrice** – Final sale price of the property; this is the target variable for the prediction model.
+**LivingArea** – Interior living area of the property, typically measured in square feet.
+**BedroomsTotal** – Total number of bedrooms.
+**BathroomsTotalInteger** – Total number of bathrooms.
+**LotSizeAcres** – Size of the property lot in acres.
+**YearBuilt** – Year the property was originally built.
+**PropertyType** – General type of property, such as Residential.
+**PropertySubType** – More specific property classification, such as SingleFamilyResidence.
+**Latitude / Longitude** – Geographic coordinates of the property.
+**ListingKey** – Unique identifier for the listing record.
